@@ -6,6 +6,6 @@ terraform.tfstate
 terraform.tfstate.backup
 
 files/*
-!files/experts-circle-media-processor.py
+!files/image_downloader.py
 !files/requirements.txt
 !files/config.ini
