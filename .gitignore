@@ -9,3 +9,4 @@ files/*
 !files/image_downloader.py
 !files/requirements.txt
 !files/config.ini
+!files/test_image_downloader.py
