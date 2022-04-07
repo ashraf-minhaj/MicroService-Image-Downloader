@@ -1,0 +1,7 @@
+aws_account_id = ""
+aws_profile = "dev"
+resource_prefix = ""
+env = "dev"
+aws_region = ""
+sns_topic =  ""
+s3_bucket = ""

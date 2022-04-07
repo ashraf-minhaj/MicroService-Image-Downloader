@@ -1,0 +1,11 @@
+*.zip
+.vscode
+
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+
+files/*
+!files/experts-circle-media-processor.py
+!files/requirements.txt
+!files/config.ini
